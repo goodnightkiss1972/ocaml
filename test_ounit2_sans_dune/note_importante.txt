@@ -1,0 +1,5 @@
+Cet exemple fonctionne tres bien dans le terminal parce que VSCODE a un souci de lien vers les modules si on a pas demarré un projet avec dune.
+
+https://discuss.ocaml.org/t/unbound-module-when-compiling-in-vscode/8730/2
+
+

@@ -1,0 +1,12 @@
+https://dune.readthedocs.io/en/stable/quick-start.html
+
+dune init proj test_ounit2
+
+cd test_ounit2
+
+dune build
+
+dune test
+
+et normalement à ce stade tout doit etre bien relié dans VS CODE
+
