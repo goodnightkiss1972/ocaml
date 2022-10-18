@@ -1,3 +1,19 @@
+# Liste des commandes utilisee après avoir installe ocaml
+
+sudo apt install opam
+opam init
+eval $(opam env)
+opam switch create 4.12.1
+sudo apt install ocaml-dune
+eval $(opam env)
+opam install graphics
+sudo apt install pkg-config
+eval $(opam env)
+opam install graphics
+opam install ocamlfind
+
+# Liste des commandes spécifiques pour ounit2
+
 opam install ounit2
 opam install ocaml-lsp-server
 opam install ocamlformat
